@@ -30,7 +30,7 @@ This project focuses on developing a prototype wearable device that enhances AR/
 
 
 
-**Refrences**
+**References**
 - https://chatgpt.com/
 - https://www.apple.com/in/
 ___
