@@ -30,8 +30,11 @@ This project focuses on developing a prototype wearable device that enhances AR/
 
 
 
+**Refrences**
+- https://chatgpt.com/
+- https://www.apple.com/in/
+___
 **To view the work, download both the PPT and PDF file. The link to the prototype is included in the PPT.**
-
 
 By-
 **Presha Dhaval Shethwala**
